@@ -17,12 +17,13 @@
 ![pic4](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/9860271975C3CAA4B7988F1484D2A008.png)<br>
 5.右键单击人物，弹出对话框`对话框位置相对高木同学独立`<br>
 ![pic5](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/423ED952EBE44694CF8BC9DEB25CEE86.png)<br>
-6.如果配置成功的话，应该就可以跟高木对话啦😁
+6.如果配置成功的话，应该就可以跟高木对话啦😁<br>
 ![pic6](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/2BC2B27D776D4998C0C8EF4B7CAF371E.png)<br>
 7.这个对话框是可以手动调节大小，内部对话气泡也是自适应的<br>
 ![pic7](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/5C9EC82EF24E2DA24CAC3DDCCC4846C5.png)<br>
-8.若高木需要休息的话，左键双击人物即可关闭整个程序
-
+8.若高木需要休息的话，左键双击人物即可关闭整个程序<br>
+9.如果你还喜欢北条的话，我今后也会去左北条。或者你直接将项目的图片替换<br>
+![pic_](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-08%20115512.png)
 ## 🌟 功能特性:右键单击打开对话，左键双击结束程序
 
 ### 桌宠功能：
