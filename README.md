@@ -64,3 +64,7 @@ cd Takaji
 > 如果你也一样喜欢高木同学，那我也邀请你也一起贡献这个项目吧！！
 
 # 一起祝愿高木💕
+
+<a href="https://openomy.com/Yunle-Lee/Takaji_the_desktop_cutie" target="_blank" style="display: block; width: 100%;" align="center">
+  <img src="https://openomy.com/svg?repo=Yunle-Lee/Takaji_the_desktop_cutie&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
+</a>
