@@ -1,2 +1,37 @@
-# Takaji_the_desktop_cutie
-This is a character of Takaji, u need upload your deepseek api key and upload ur chat avatar
+![Takaji](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/53D5922A40695B5A4C3EFFBB26A24B54.jpg)
+# 高木同学桌宠（Takaji PixelPet）
+
+**高木同学桌宠**是一款可爱的桌面宠物程序，灵感来自“高木同学”，集成了 AI 聊天、多轮对话、可爱的风格桌宠和交互动画，让你不再孤单。
+
+---
+
+## 🌟 功能特性:右键单击打开对话，左键双击结束程序
+
+### 桌宠功能
+- 可拖拽移动，灵活安置在桌面任意位置  
+- 双击桌宠即可退出程序  
+- 身体上方有爱心漂浮动画，充满萌感  
+
+### 聊天功能
+- **独立窗口**：聊天窗口与桌宠独立，可自由移动  
+- **手机短信风格气泡**：左右分布，头像在气泡顶部  
+- **用户头像自定义**：启动时上传你的头像，显示在你的气泡  
+- **气泡自适应窗口**：聊天窗口拉伸时，气泡自动调整宽度  
+- **多轮 AI 对话**：通过 DeepSeek API 提供高木同学风格聊天  
+- 系统身份设定：高木同学风格，友善、幽默、可爱  
+
+### AI 功能
+- 基于 **DeepSeek Chat API**，支持多轮对话  
+- 系统角色固定：高木同学 → 用户视角：西片同学  
+- 自动记忆对话内容，延续上下文  
+
+---
+
+## 💻 安装与运行
+
+### 1. 下载源码
+```bash
+git clone https://github.com/YOUR_USERNAME/Takaji.git
+cd Takaji
+```
+## 你也可以直接到realse 里面直接下载，那里可以直接运行
