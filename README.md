@@ -35,3 +35,6 @@ git clone https://github.com/YOUR_USERNAME/Takaji.git
 cd Takaji
 ```
 ## 你也可以直接到realse 里面直接下载，那里可以直接运行
+- [项目主页](https://github.com/Yunle-Lee/Takaji_the_desktop_cutie)
+- [Releases 下载](https://github.com/Yunle-Lee/Takaji_the_desktop_cutie/releases)
+- [贡献者排行榜](https://openomy.com/Yunle-Lee/Takaji_the_desktop_cutie)
