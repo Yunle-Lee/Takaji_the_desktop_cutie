@@ -68,3 +68,7 @@ cd Takaji
 <a href="https://openomy.com/Yunle-Lee/Takaji_the_desktop_cutie" target="_blank" style="display: block; width: 100%;" align="center">
   <img src="https://openomy.com/svg?repo=Yunle-Lee/Takaji_the_desktop_cutie&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
 </a>
+---
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Yunle-Lee/Takaji_the_desktop_cutie&type=date&legend=top-left)](https://www.star-history.com/#Yunle-Lee/Takaji_the_desktop_cutie&type=date&legend=top-left)
